@@ -1,0 +1,309 @@
+Laptop, Dell XPS 13, 13.4-inch, Intel Core i7, 16GB RAM, 512GB SSD, $1299.99, Lightweight and powerful laptop for professionals
+
+Laptop, Apple MacBook Air M2, 13.6-inch, Apple M2 Chip, 8GB RAM, 256GB SSD, $999.99, Sleek design with all-day battery life
+
+Laptop, HP Spectre x360, 14-inch, Intel Core i5, 16GB RAM, 512GB SSD, $1199.99, 2-in-1 convertible with vibrant OLED display
+
+Laptop, Lenovo ThinkPad X1 Carbon, 14-inch, Intel Core i7, 16GB RAM, 1TB SSD, $1499.99, Durable business laptop with long battery life
+
+Laptop, ASUS ROG Zephyrus G14, 14-inch, AMD Ryzen 9, 32GB RAM, 1TB SSD, $1799.99, Gaming laptop with powerful GPU
+
+Smartphone, iPhone 14 Pro, 6.1-inch, A16 Bionic, 128GB Storage, $999.99, Advanced camera system with ProRAW
+
+Smartphone, Samsung Galaxy S23, 6.1-inch, Snapdragon 8 Gen 2, 256GB Storage, $799.99, Dynamic AMOLED display
+
+Smartphone, Google Pixel 7, 6.3-inch, Google Tensor G2, 128GB Storage, $599.99, Best-in-class computational photography
+
+Smartphone, OnePlus 11, 6.7-inch, Snapdragon 8 Gen 2, 256GB Storage, $699.99, Fast charging and smooth performance
+
+Smartphone, Xiaomi 13 Pro, 6.73-inch, Snapdragon 8 Gen 2, 256GB Storage, $749.99, Leica-tuned cameras
+
+Tablet, iPad Air 5, 10.9-inch, M1 Chip, 64GB Storage, $599.99, Supports Apple Pencil and Magic Keyboard
+
+Tablet, Samsung Galaxy Tab S8, 11-inch, Snapdragon 8 Gen 1, 128GB Storage, $699.99, S Pen included for productivity
+
+Tablet, Microsoft Surface Pro 9, 13-inch, Intel Core i5, 8GB RAM, 256GB SSD, $999.99, Versatile 2-in-1 for work and play
+
+Tablet, Lenovo Tab P11 Pro, 11.2-inch, Snapdragon 730G, 128GB Storage, $499.99, OLED display for media consumption
+
+Tablet, Amazon Fire HD 10, 10.1-inch, Octa-core, 64GB Storage, $149.99, Budget-friendly for streaming and browsing
+
+Monitor, Dell UltraSharp 27, 27-inch, 4K UHD, IPS Panel, $499.99, Professional-grade color accuracy
+
+Monitor, LG 32UN880-B, 32-inch, 4K UHD, USB-C, $599.99, Ergonomic stand with pivot and height adjustment
+
+Monitor, Samsung Odyssey G7, 27-inch, QHD, 240Hz, $649.99, Curved gaming monitor with low latency
+
+Monitor, ASUS ProArt PA279CV, 27-inch, 4K UHD, IPS, $449.99, Factory-calibrated for creators
+
+Monitor, Acer Nitro XV272U, 27-inch, QHD, 165Hz, $299.99, Affordable gaming monitor with vibrant colors
+
+Headphones, Sony WH-1000XM5, Over-ear, Noise Cancelling, 30hr Battery, $399.99, Industry-leading noise cancellation
+
+Headphones, Bose QuietComfort 45, Over-ear, Noise Cancelling, 24hr Battery, $329.99, Comfortable for long sessions
+
+Headphones, Apple AirPods Max, Over-ear, Noise Cancelling, 20hr Battery, $549.99, Premium design with spatial audio
+
+Headphones, JBL Live 660NC, Over-ear, Noise Cancelling, 50hr Battery, $199.99, Budget-friendly with strong bass
+
+Headphones, Sennheiser HD 450BT, Over-ear, Noise Cancelling, 30hr Battery, $129.99, Balanced sound for audiophiles
+
+Smartwatch, Apple Watch Series 8, 41mm, GPS, Always-On Display, $399.99, Advanced health tracking features
+
+Smartwatch, Samsung Galaxy Watch 5, 40mm, Bluetooth, AMOLED, $279.99, Comprehensive fitness tracking
+
+Smartwatch, Garmin Venu 2, 45mm, AMOLED, GPS, $399.99, Designed for athletes with detailed metrics
+
+Smartwatch, Fitbit Versa 4, 40mm, AMOLED, Fitness Tracking, $199.99, Lightweight and stylish
+
+Smartwatch, Amazfit GTR 4, 46mm, AMOLED, GPS, $199.99, Long battery life for budget buyers
+
+Keyboard, Logitech MX Keys, Wireless, Backlit, $119.99, Premium typing experience with multi-device support
+
+Keyboard, Razer BlackWidow V3, Mechanical, RGB Lighting, $139.99, Gaming keyboard with tactile switches
+
+Keyboard, Keychron K8, Wireless, Mechanical, $79.99, Compact with hot-swappable switches
+
+Keyboard, Corsair K95 RGB Platinum, Mechanical, RGB Lighting, $199.99, Programmable macro keys
+
+Keyboard, Ducky One 3, Mechanical, RGB, $129.99, High-quality build with customizable keycaps
+
+Mouse, Logitech MX Master 3S, Wireless, 8000 DPI, $99.99, Ergonomic with customizable buttons
+
+Mouse, Razer DeathAdder V3 Pro, Wireless, 30000 DPI, $149.99, Ultra-light gaming mouse
+
+Mouse, Microsoft Bluetooth Mouse, Wireless, 1800 DPI, $19.99, Affordable and reliable
+
+Mouse, SteelSeries Aerox 3, Wireless, 18000 DPI, $99.99, Lightweight with RGB lighting
+
+Mouse, Apple Magic Mouse 2, Wireless, Multi-Touch, $79.99, Sleek design for Mac users
+
+Speaker, Bose SoundLink Revolve+, Bluetooth, 360° Sound, $299.99, Portable with rich audio
+
+Speaker, JBL Charge 5, Bluetooth, 20hr Battery, $179.99, Waterproof with powerful bass
+
+Speaker, Sonos Roam, Bluetooth/Wi-Fi, Portable, $179.99, Smart speaker with multi-room support
+
+Speaker, Ultimate Ears Boom 3, Bluetooth, Waterproof, $149.99, Vibrant colors and 360° sound
+
+Speaker, Amazon Echo Dot 5th Gen, Wi-Fi, Smart Speaker, $49.99, Compact with Alexa integration
+
+Router, TP-Link Archer AX73, Wi-Fi 6, Dual-Band, $199.99, High-speed for large homes
+
+Router, ASUS RT-AX86U, Wi-Fi 6, Gaming, $249.99, Low latency for online gaming
+
+Router, Netgear Nighthawk AX5400, Wi-Fi 6, Dual-Band, $229.99, Supports multiple devices
+
+Router, Google Nest WiFi, Mesh, Dual-Band, $169.99, Easy setup with Google Assistant
+
+Router, Eero Pro 6, Mesh, Tri-Band, $229.99, Seamless coverage for smart homes
+
+SSD, Samsung 970 EVO Plus, 1TB, NVMe M.2, $129.99, Fast read/write speeds for PCs
+
+SSD, WD Black SN850, 1TB, NVMe M.2, $149.99, Optimized for gaming
+
+SSD, Crucial MX500, 1TB, SATA, $89.99, Reliable for budget builds
+
+SSD, Kingston NV2, 2TB, NVMe M.2, $159.99, High capacity for storage needs
+
+SSD, Seagate FireCuda 530, 1TB, NVMe M.2, $179.99, Built for PS5 and PC
+
+Webcam, Logitech C920 HD Pro, 1080p, Autofocus, $79.99, Clear video for streaming
+
+Webcam, Razer Kiyo Pro, 1080p, Adaptive Light Sensor, $199.99, Professional-grade streaming
+
+Webcam, Anker PowerConf C300, 1080p, AI-Powered, $129.99, Wide-angle lens for meetings
+
+Webcam, Microsoft LifeCam Studio, 1080p, Wide-Angle, $99.99, Reliable for video calls
+
+Webcam, Elgato Facecam, 1080p, Fixed Focus, $149.99, Optimized for content creators
+
+Drone, DJI Mini 3 Pro, 4K Camera, 34min Flight Time, $759.99, Lightweight with obstacle avoidance
+
+Drone, Autel EVO Nano+, 4K Camera, 28min Flight Time, $679.99, Compact with advanced tracking
+
+Drone, Parrot Anafi, 4K HDR, 25min Flight Time, $699.99, 180° tilt gimbal
+
+Drone, Holy Stone HS720E, 4K Camera, 46min Flight Time, $299.99, Budget-friendly for beginners
+
+Drone, Ryze Tello, 720p Camera, 13min Flight Time, $99.99, Affordable for learning
+
+Camera, Canon EOS R5, 45MP, 8K Video, $3899.99, Professional mirrorless camera
+
+Camera, Sony A7 IV, 33MP, 4K Video, $2499.99, Versatile for photography and video
+
+Camera, Nikon Z6 II, 24.5MP, 4K Video, $1999.99, Great low-light performance
+
+Camera, Fujifilm X-T4, 26.1MP, 4K Video, $1699.99, Retro design with modern features
+
+Camera, Panasonic Lumix GH5 II, 20.3MP, 4K Video, $1699.99, Optimized for video creators
+
+Smart TV, Samsung QN90B, 55-inch, 4K QLED, $1299.99, Bright and vibrant colors
+
+Smart TV, LG OLED C2, 55-inch, 4K OLED, $1399.99, Perfect blacks for cinematic viewing
+
+Smart TV, Sony A80K, 65-inch, 4K OLED, $1999.99, Acoustic Surface Audio
+
+Smart TV, TCL 6-Series, 55-inch, 4K QLED, $699.99, Affordable with great picture quality
+
+Smart TV, Hisense U8H, 65-inch, 4K ULED, $999.99, Quantum Dot for vivid colors
+
+Gaming Console, Sony PlayStation 5, 825GB SSD, 4K, $499.99, Next-gen gaming with ray tracing
+
+Gaming Console, Xbox Series X, 1TB SSD, 4K, $499.99, Powerful with fast load times
+
+Gaming Console, Nintendo Switch OLED, 64GB Storage, 7-inch, $349.99, Portable and vibrant display
+
+Gaming Console, Steam Deck, 512GB SSD, 7-inch, $649.99, PC gaming on the go
+
+Gaming Console, PlayStation 5 Digital Edition, 825GB SSD, 4K, $399.99, Disc-free gaming
+
+Laptop, Acer Predator Helios 300, 15.6-inch, Intel Core i7, 16GB RAM, 512GB SSD, $1299.99, Gaming laptop with RTX 3060
+
+Laptop, MSI Katana GF66, 15.6-inch, Intel Core i7, 16GB RAM, 512GB SSD, $1199.99, High-refresh-rate display
+
+Laptop, Razer Blade 15, 15.6-inch, Intel Core i7, 16GB RAM, 1TB SSD, $1999.99, Premium gaming laptop
+
+Laptop, Microsoft Surface Laptop 5, 13.5-inch, Intel Core i5, 8GB RAM, 256GB SSD, $999.99, Sleek and lightweight
+
+Laptop, ASUS ZenBook 14, 14-inch, AMD Ryzen 7, 16GB RAM, 512GB SSD, $899.99, Compact with long battery life
+
+Smartphone, Motorola Edge 30 Pro, 6.7-inch, Snapdragon 8 Gen 1, 256GB Storage, $699.99, 144Hz OLED display
+
+Smartphone, Sony Xperia 1 IV, 6.5-inch, Snapdragon 8 Gen 1, 256GB Storage, $1299.99, 4K display for creators
+
+Smartphone, Nothing Phone 2, 6.7-inch, Snapdragon 8+ Gen 1, 256GB Storage, $599.99, Unique glyph interface
+
+Smartphone, Oppo Find X5 Pro, 6.7-inch, Snapdragon 8 Gen 1, 256GB Storage, $999.99, Hasselblad-tuned cameras
+
+Smartphone, Vivo X80 Pro, 6.78-inch, Snapdragon 8 Gen 1, 256GB Storage, $899.99, Advanced night photography
+
+Tablet, Apple iPad Pro, 11-inch, M2 Chip, 128GB Storage, $799.99, ProMotion display with 120Hz
+
+Tablet, Samsung Galaxy Tab S8 Ultra, 14.6-inch, Snapdragon 8 Gen 1, 256GB Storage, $1099.99, Large AMOLED display
+
+Tablet, Xiaomi Pad 5, 11-inch, Snapdragon 860, 128GB Storage, $399.99, Budget-friendly with 120Hz display
+
+Tablet, Huawei MatePad Pro, 12.6-inch, Kirin 9000E, 256GB Storage, $699.99, OLED with stylus support
+
+Tablet, Google Pixel Tablet, 11-inch, Tensor G2, 128GB Storage, $499.99, Smart home hub integration
+
+Monitor, Dell S2721QS, 27-inch, 4K UHD, IPS, $329.99, Affordable 4K for home office
+
+Monitor, LG 27GP950-B, 27-inch, 4K UHD, 144Hz, $799.99, Gaming monitor with HDMI 2.1
+
+Monitor, BenQ PD3220U, 32-inch, 4K UHD, Thunderbolt 3, $1099.99, Designed for designers
+
+Monitor, ViewSonic VP2768, 27-inch, QHD, IPS, $499.99, Color-accurate for professionals
+
+Monitor, AOC CQ32G2S, 32-inch, QHD, 165Hz, $349.99, Curved gaming monitor
+
+Headphones, Anker Soundcore Liberty 3 Pro, In-ear, Noise Cancelling, $169.99, Customizable sound via app
+
+Headphones, Jabra Elite 85t, In-ear, Noise Cancelling, $229.99, Adjustable ANC for calls
+
+Headphones, Sony WF-1000XM4, In-ear, Noise Cancelling, $279.99, Compact with premium sound
+
+Headphones, Beats Fit Pro, In-ear, Noise Cancelling, $199.99, Secure fit for workouts
+
+Headphones, Shure AONIC 50, Over-ear, Noise Cancelling, $299.99, Studio-quality audio
+
+Smartwatch, Apple Watch Ultra, 49mm, GPS + Cellular, $799.99, Rugged for extreme sports
+
+Smartwatch, Samsung Galaxy Watch 5 Pro, 45mm, Bluetooth, $449.99, Durable with long battery life
+
+Smartwatch, Huawei Watch GT 3, 46mm, AMOLED, $229.99, Stylish with health monitoring
+
+Smartwatch, TicWatch Pro 3 Ultra, 47mm, AMOLED, $299.99, Dual-layer display for battery life
+
+Smartwatch, Fossil Gen 6, 44mm, AMOLED, $299.99, Wear OS with fast charging
+
+Keyboard, Logitech G Pro X, Mechanical, Hot-Swappable, $149.99, Compact for esports
+
+Keyboard, SteelSeries Apex Pro, Mechanical, Adjustable Switches, $199.99, Customizable actuation
+
+Keyboard, HyperX Alloy Origins, Mechanical, RGB, $109.99, Durable with tactile switches
+
+Keyboard, Anne Pro 2, Wireless, Mechanical, $89.99, Compact with customizable lighting
+
+Keyboard, Das Keyboard 4 Pro, Mechanical, Tactile, $169.99, Premium for coders
+
+Mouse, Logitech G Pro Wireless, Wireless, 25600 DPI, $129.99, Lightweight for esports
+
+Mouse, HyperX Pulsefire Haste, Wired, 16000 DPI, $49.99, Ultra-light for gaming
+
+Mouse, Corsair Dark Core RGB Pro, Wireless, 18000 DPI, $89.99, Customizable RGB lighting
+
+Mouse, Anker Vertical Ergonomic Mouse, Wired, 1600 DPI, $29.99, Comfortable for long use
+
+Mouse, Lenovo Go Wireless Mouse, Wireless, 2400 DPI, $39.99, Compact for travel
+
+Speaker, Bose Home Speaker 500, Wi-Fi/Bluetooth, Stereo, $399.99, Wide soundstage
+
+Speaker, JBL Flip 6, Bluetooth, Waterproof, $129.99, Portable with bold sound
+
+Speaker, Sony SRS-XB43, Bluetooth, Waterproof, $199.99, Extra bass for parties
+
+Speaker, Bang & Olufsen Beosound A1, Bluetooth, Waterproof, $299.99, Premium sound quality
+
+Speaker, Google Nest Audio, Wi-Fi, Smart Speaker, $99.99, Clear vocals with Google Assistant
+
+Router, TP-Link Archer AX11000, Wi-Fi 6, Tri-Band, $399.99, Gaming router with high speeds
+
+Router, ASUS ROG Rapture GT-AX11000, Wi-Fi 6, Tri-Band, $449.99, Advanced gaming features
+
+Router, Netgear Orbi RBK852, Mesh, Wi-Fi 6, $699.99, Whole-home coverage
+
+Router, Linksys MR9600, Mesh, Wi-Fi 6, $299.99, Easy setup for large homes
+
+Router, D-Link DIR-X5460, Wi-Fi 6, Dual-Band, $199.99, Reliable for streaming
+
+SSD, Samsung 980 Pro, 2TB, NVMe M.2, $229.99, High-performance for creators
+
+SSD, WD Blue SN570, 1TB, NVMe M.2, $89.99, Affordable for upgrades
+
+SSD, Sabrent Rocket 4 Plus, 2TB, NVMe M.2, $399.99, Ultra-fast for enthusiasts
+
+SSD, Intel 670p, 1TB, NVMe M.2, $99.99, Reliable with QLC technology
+
+SSD, Corsair MP600, 1TB, NVMe M.2, $129.99, High-speed for gaming
+
+Webcam, Logitech StreamCam, 1080p, USB-C, $169.99, Dual-camera for streaming
+
+Webcam, Razer Kiyo, 1080p, Ring Light, $99.99, Built-in lighting for streaming
+
+Webcam, OBSBOT Tiny 4K, 4K, AI Tracking, $269.99, Auto-tracking for video calls
+
+Webcam, Insta360 Link, 4K, AI Tracking, $299.99, Gesture control for presentations
+
+Webcam, Poly Studio P5, 1080p, USB, $129.99, Optimized for Zoom and Teams
+
+Drone, DJI Air 2S, 5.4K Camera, 31min Flight Time, $999.99, Advanced sensors for safety
+
+Drone, Autel EVO Lite+, 6K Camera, 40min Flight Time, $1149.99, Adjustable aperture
+
+Drone, Skydio 2+, 4K Camera, 27min Flight Time, $1099.99, Autonomous flight capabilities
+
+Drone, FIMI X8 SE, 4K Camera, 33min Flight Time, $399.99, Foldable for portability
+
+Drone, Hubsan Zino Mini Pro, 4K Camera, 40min Flight Time, $529.99, Lightweight with 4K video
+
+Camera, Canon EOS R6, 20.1MP, 4K Video, $2299.99, Fast autofocus for action shots
+
+Camera, Sony ZV-1, 20.1MP, 4K Video, $749.99, Compact for vloggers
+
+Camera, Nikon Z7 II, 45.7MP, 4K Video, $2999.99, High-resolution for landscapes
+
+Camera, Fujifilm X-S10, 26.1MP, 4K Video, $999.99, Lightweight with IBIS
+
+Camera, Panasonic Lumix S5, 24.2MP, 4K Video, $1999.99, Compact full-frame camera
+
+Smart TV, Samsung The Frame, 55-inch, 4K QLED, $1499.99, Art mode for decor
+
+Smart TV, LG G2 OLED, 65-inch, 4K OLED, $2199.99, Gallery design for wall mounting
+
+Smart TV, Sony X90J, 55-inch, 4K LED, $1299.99, Cognitive XR processor
+
+Smart TV, Vizio OLED55-H1, 55-inch, 4K OLED, $999.99, Affordable OLED option
+
+Smart TV, TCL 5-Series, 55-inch, 4K QLED, $499.99, Budget-friendly with Dolby Vision
