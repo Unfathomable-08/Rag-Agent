@@ -6,6 +6,7 @@ from data_loader import load_vectorstore
 from langchain.prompts import PromptTemplate
 from huggingface_hub import InferenceClient
 from langgraph.graph import StateGraph, START, END
+from redis_db import get_chat_history, save_chat_message
 
 # Load huggingface api key
 load_dotenv()
@@ -24,6 +25,7 @@ vectorstore = load_vectorstore()
 
 # State Dictionery
 class State(TypedDict):
+    session_id: str
     question: str
     context: List[Document]
     answer: str
@@ -33,7 +35,14 @@ class State(TypedDict):
 def retrieve(state: State):
     query = state["question"]
     results = vectorstore.similarity_search(query, k=5)  # Top 5 matches
-    return {"context": results}
+
+    # Load chat history from Redis
+    chat_history = get_chat_history(state["session_id"])
+
+    return {
+        "context": results,
+        "chat_history": chat_history
+    }
 
 # Generate Response Node
 def generate(state: State):
@@ -55,6 +64,11 @@ def generate(state: State):
     )
     result = response.choices[0].message.content.strip()
 
+    # Save to Redis
+    save_chat_message(state["session_id"], f"User: {state['question']}")
+    save_chat_message(state["session_id"], f"Bot: {result}")
+
+    # Prepare history to update state
     updated_history = chat_history + [
         f"User: {state['question']}",
         f"Bot: {result}"

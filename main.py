@@ -1,6 +1,8 @@
 from agent import graph
+import uuid
 
 chat_history = []
+session_id = str(uuid.uuid4())
 
 while True:
     question = input("You: ")
@@ -9,6 +11,7 @@ while True:
         break
 
     input_state = {
+        "session_id": session_id,
         "question": question,
         "chat_history": chat_history
     }

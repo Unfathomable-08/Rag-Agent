@@ -1,4 +1,3 @@
 .env
 venv
-data/
-data
+new_data
