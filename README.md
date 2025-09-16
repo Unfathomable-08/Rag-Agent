@@ -18,7 +18,7 @@ It retrieves relevant context from your dataset and generates answers using Hugg
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Unfathomable-08/Rag-Agent.git
+git clone https:/github.com/Unfathomable-08/Rag-Agent.git
 cd Rag-Agent
 ```
 
@@ -31,7 +31,7 @@ python -m venv venv
 **Windows**
 
 ```bash
-venv\\Scripts\\activate
+venv\Scripts\activate
 ```
 
 **Linux/Mac**
@@ -58,7 +58,7 @@ Open .env and fill in:
 
 Example Redis URL format:
 ```bash
-textredis://default:<your-password>@<your-host>:<port>
+textredis:/default:<your-password>@<your-host>:<port>
 ```
 
 ### 6. Prepare data
@@ -91,8 +91,8 @@ json{
 
 Example using curl
 ```bash
-curl -X POST http://127.0.0.1:5000/chat \\
-  -H "Content-Type: application/json" \\
+curl -X POST http:/127.0.0.1:5000/chat \
+  -H "Content-Type: application/json" \
   -d '{"session_id": "user123", "question": "What products do you have?"}'
 ```
 
