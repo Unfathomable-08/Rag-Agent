@@ -20,30 +20,36 @@ It retrieves relevant context from your dataset and generates answers using Hugg
 ```bash
 git clone https://github.com/Unfathomable-08/Rag-Agent.git
 cd Rag-Agent
+```
 
 ### 2. Create a virtual environment
 ```bash
 python -m venv venv
+```
 
 ### 3. Activate the virtual environment
 **Windows**
 
 ```bash
 venv\\Scripts\\activate
+```
 
 **Linux/Mac**
 
 ```bash
 source venv/bin/activate
+```
 
 ### 4. Install dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ### 5. Configure environment variables
 Copy the example file:
 ```bash
 cp .env.example .env
+```
 
 Open .env and fill in:
 
@@ -56,28 +62,41 @@ textredis://default:<your-password>@<your-host>:<port>
 ### 6. Prepare data
 You can keep or modify the file:
 textdata/product.txt
-7. Build the vector database
-bashpython vector_builder.py
-8. Start the server
-bashpython main.py
+
+### 7. Build the vector database
+```bash
+python vector_builder.py
+```
+
+### 8. Start the server
+```bash
+python main.py
+```
+
 The Flask server will start locally.
 
-###📡 API Usage
-Endpoint
+### 📡 API Usage
+**Endpoint**
 textPOST /chat
+
 Request body
 json{
   "session_id": "user123",
   "question": "What products do you have?"
 }
 Example using curl
-bashcurl -X POST http://127.0.0.1:5000/chat \\
+```bash
+curl -X POST http://127.0.0.1:5000/chat \\
   -H "Content-Type: application/json" \\
   -d '{"session_id": "user123", "question": "What products do you have?"}'
+```
+
 Response
+```bash
 json{
   "answer": "We have a range of products including..."
 }
+```
 
 ### 🛠 Tech Stack
 
