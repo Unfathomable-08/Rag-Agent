@@ -57,7 +57,9 @@ Open .env and fill in:
 - Redis Cloud URL → Get it here
 
 Example Redis URL format:
+```bash
 textredis://default:<your-password>@<your-host>:<port>
+```
 
 ### 6. Prepare data
 You can keep or modify the file:
@@ -80,10 +82,13 @@ The Flask server will start locally.
 textPOST /chat
 
 Request body
+```bash
 json{
   "session_id": "user123",
   "question": "What products do you have?"
 }
+```
+
 Example using curl
 ```bash
 curl -X POST http://127.0.0.1:5000/chat \\
@@ -110,6 +115,7 @@ json{
 
 ### 📖 Notes
 
+"""
 Replace data/product.txt with your own dataset for custom answers.
 Ensure Redis Cloud is running and accessible.
 Hugging Face token must have inference API permissions.
